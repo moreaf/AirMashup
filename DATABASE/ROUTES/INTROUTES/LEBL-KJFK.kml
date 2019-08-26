@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEBL to KJFK</name>
+    <description>BARCELONA/EL PRAT to JOHN F KENNEDY INTL</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBL to KJFK</name>
+      <description>BARCELONA/EL PRAT to JOHN F KENNEDY INTL</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>2.078300,41.296900,3.6576000000000004
+1.483600,42.616100,10058.4
+1.309800,43.680800,10058.4
+0.130800,45.355300,10058.4
+-0.311600,45.659600,10058.4
+-0.839400,46.124200,10058.4
+-0.941900,46.213300,10058.4
+-1.390800,46.598900,10058.4
+-2.013900,47.006900,10058.4
+-3.156700,47.743900,10058.4
+-3.616700,48.030000,10058.4
+-4.061700,48.301900,10058.4
+-4.631900,48.993100,10058.4
+-4.981100,49.397200,10058.4
+-5.032500,49.456100,10058.4
+-5.057200,49.484400,10058.4
+-8.000000,51.000000,10058.4
+-15.000000,54.000000,10058.4
+-20.000000,55.000000,10058.4
+-30.000000,56.000000,10058.4
+-40.000000,55.000000,10058.4
+-50.000000,53.000000,10058.4
+-54.533300,51.800000,10058.4
+-67.000000,44.416700,10058.4
+-69.602300,43.727900,10058.4
+-70.613500,43.425700,10058.4
+-73.778700,40.639900,3.9624
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

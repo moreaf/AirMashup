@@ -1,0 +1,116 @@
+[
+  {
+    "id":0,
+    "name":"GRAN CANARIA (GCLP) - BILBAO (LEBB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/GCLP-LEBB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEBB.png"
+  },
+  {
+    "id":1,
+    "name":"GRAN CANARIA (GCLP) - BARCELONA (LEBL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/GCLP-LEBL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEBL.png"
+  },
+  {
+    "id":3,
+    "name":"GRAN CANARIA (GCLP) - MADRID (LEMD)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/GCLP-LEMD.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEMD.png"
+  },
+  {
+    "id":4,
+    "name":"GRAN CANARIA (GCLP) - SEVILLA (LEZL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/GCLP-LEZL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEZL.png"
+  },
+  {
+    "id":5,
+    "name":"BILBAO (LEBB) - GRAN CANARIA (GCLP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBB-GCLP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEBB.png"
+  },
+  {
+    "id":6,
+    "name":"BILBAO (LEBB) - BARCELONA (LEBL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBB-LEBL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEBL.png"
+  },
+  {
+    "id":7,
+    "name":"BILBAO (LEBB) - MADRID (LEMD)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBB-LEMD.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEMD.png"
+  },
+  {
+    "id":8,
+    "name":"BILBAO (LEBB) - SEVILLA (LEZL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBB-LEZL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEZL.png"
+  },
+  {
+    "id":9,
+    "name":"BARCELONA (LEBL) - BILBAO (LEBB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBL-LEBB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEBL.png"
+  },
+  {
+    "id":10,
+    "name":"BARCELONA (LEBL) - MADRID (LEMD)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBL-LEMD.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEMD-LEBL.png"
+  },
+  {
+    "id":11,
+    "name":"BARCELONA (LEBL) - SEVILLA (LEZL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBL-LEZL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBL-LEZL.png"
+  },
+  {
+    "id":12,
+    "name":"MADRID (LEMD) - GRAN CANARIA (GCLP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEMD-GCLP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEMD.png"
+  },
+  {
+    "id":13,
+    "name":"MADRID (LEMD) - BILBAO (LEBB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEMD-LEBB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEMD.png"
+  },
+  {
+    "id":14,
+    "name":"MADRID (LEMD) - BARCELONA (LEBL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEMD-LEBL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEMD-LEBL.png"
+  },
+  {
+    "id":15,
+    "name":"MADRID (LEMD) - SEVILLA (LEZL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEBL-LEZL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEMD-LEZL.png"
+  },
+  {
+    "id":16,
+    "name":"SEVILLA (LEZL) - GRAN CANARIA (GCLP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEZL-GCLP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/GCLP-LEZL.png"
+  },
+  {
+    "id":17,
+    "name":"SEVILLA (LEZL) - BILBAO (LEBB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEZL-LEBB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBB-LEZL.png"
+  },
+  {
+    "id":18,
+    "name":"SEVILLA (LEZL) - BARCELONA (LEBL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEZL-LEBL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEBL-LEZL.png"
+  },
+  {
+    "id":19,
+    "name":"SEVILLA (LEZL) - MADRID (LEMD)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/LEZL-LEMD.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/SROUTES/IMAGES/LEMD-LEZL.png"
+  }
+]

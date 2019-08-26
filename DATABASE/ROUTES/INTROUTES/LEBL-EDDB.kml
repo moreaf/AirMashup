@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <gx:Tour>
+        <name>FollowPath</name>
+        <gx:Playlist>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>7.03</longitude>
+                <latitude>45.832659</latitude>
+                <range>1000000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>2.06</longitude>
+                <latitude>41.3</latitude>
+                <range>147096</range>
+                <heading>19</heading>
+                <tilt>29</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>7.03</longitude>
+                <latitude>45.832659</latitude>
+                <range>600000</range>
+                <heading>0</heading>
+                <tilt>60</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>5.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>13.47</longitude>
+                <latitude>52.4</latitude>
+                <range>15000</range>
+                <heading>40</heading>
+                <tilt>50</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:Wait>
+            <gx:duration>3.0</gx:duration>
+          </gx:Wait>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>7.03</longitude>
+                <latitude>45.832659</latitude>
+                <range>1000000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+         </gx:Playlist>
+        </gx:Tour>
+    <name>LEBL to EDDB</name>
+    <description>BARCELONA/EL PRAT to BERLIN/SCHOENEFELD</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBL to EDDB</name>
+      <description>BARCELONA/EL PRAT to BERLIN/SCHOENEFELD</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>2.078300,41.296900,3.6576000000000004
+3.357900,41.733800,10058.4
+3.933800,41.923900,10058.4
+4.415000,42.079700,10058.4
+4.997400,42.560200,10058.4
+5.500000,42.966700,10058.4
+5.828900,43.228600,10058.4
+6.040600,43.395500,10058.4
+6.078500,43.771400,10058.4
+6.377800,44.208600,10058.4
+6.569500,44.485000,10058.4
+6.790400,44.800000,10058.4
+6.777300,45.008600,10058.4
+6.755300,45.331400,10058.4
+6.746900,45.457200,10058.4
+6.722700,45.809700,10058.4
+7.231400,46.579700,10058.4
+7.414100,46.850400,10058.4
+7.680700,46.995300,10058.4
+7.941300,47.135500,10058.4
+8.010700,47.165200,10058.4
+8.333500,47.302100,10058.4
+8.817700,47.592200,10058.4
+9.107700,47.713000,10058.4
+9.120400,47.790000,10058.4
+9.162500,48.044200,10058.4
+9.182900,48.166700,10058.4
+9.259200,48.618400,10058.4
+9.414600,49.618400,10058.4
+9.486300,50.067000,10058.4
+9.873400,50.409800,10058.4
+10.280700,50.654000,10058.4
+10.730100,50.807800,10058.4
+13.029600,51.572000,10058.4
+13.500700,52.362200,47.8536
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+  </Document>
+</kml>

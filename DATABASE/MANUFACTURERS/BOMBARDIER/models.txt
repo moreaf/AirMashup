@@ -1,0 +1,13 @@
+[
+  {
+    "id":0,
+    "name":"CRJ",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/BOMBARDIER/IMAGES/CRJ1000.png",
+    "lon":-74.036147,
+    "lat":45.678435,
+    "range":0,
+    "description":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/BOMBARDIER/CRJ700.html",
+    "icon":"test",
+    "scale":1
+  }
+]

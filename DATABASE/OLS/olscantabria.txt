@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"SANTANDER - SEVE BALLESTEROS AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEXJ.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEXJ.png"
+  }
+]

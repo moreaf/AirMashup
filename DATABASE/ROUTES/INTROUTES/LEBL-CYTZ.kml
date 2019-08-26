@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <gx:Tour>
+        <name>FollowPath</name>
+        <gx:Playlist>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>-31</longitude>
+                <latitude>55</latitude>
+                <range>1500000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>2.06</longitude>
+                <latitude>41.3</latitude>
+                <range>147096</range>
+                <heading>19</heading>
+                <tilt>29</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>5.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>-1.67</longitude>
+                <latitude>47.6</latitude>
+                <range>800000</range>
+                <heading>17</heading>
+                <tilt>22</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>5.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>-60</longitude>
+                <latitude>49.5</latitude>
+                <range>1340261</range>
+                <heading>2</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>5.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>-79.4</longitude>
+                <latitude>43.6</latitude>
+                <range>32362</range>
+                <heading>1</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:Wait>
+            <gx:duration>3.0</gx:duration>
+          </gx:Wait>
+          <gx:FlyTo>
+            <gx:duration>7.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>-31</longitude>
+                <latitude>55</latitude>
+                <range>1500000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+         </gx:Playlist>
+        </gx:Tour>
+    <name>LEBL to CYTZ</name>
+    <description>BARCELONA/EL PRAT to BILLY BISHOP TORONTO CITY AIR</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBL to CYTZ</name>
+      <description>BARCELONA/EL PRAT to BILLY BISHOP TORONTO CITY AIR</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>2.078300,41.296900,3.6576000000000004
+1.483600,42.616100,10058.4
+1.309800,43.680800,10058.4
+0.130800,45.355300,10058.4
+-0.311600,45.659600,10058.4
+-0.839400,46.124200,10058.4
+-0.941900,46.213300,10058.4
+-1.390800,46.598900,10058.4
+-2.013900,47.006900,10058.4
+-3.156700,47.743900,10058.4
+-3.616700,48.030000,10058.4
+-4.061700,48.301900,10058.4
+-4.631900,48.993100,10058.4
+-4.981100,49.397200,10058.4
+-5.032500,49.456100,10058.4
+-5.057200,49.484400,10058.4
+-8.000000,51.000000,10058.4
+-15.000000,54.000000,10058.4
+-20.000000,55.000000,10058.4
+-30.000000,56.000000,10058.4
+-40.000000,55.000000,10058.4
+-50.000000,53.000000,10058.4
+-54.533300,51.800000,10058.4
+-67.738600,45.340200,10058.4
+-68.515500,45.586700,10058.4
+-70.427200,45.789200,10058.4
+-72.220300,45.657300,10058.4
+-72.715600,45.615800,10058.4
+-74.463900,45.513100,10058.4
+-75.043600,45.431400,10058.4
+-75.359600,45.257600,10058.4
+-79.396200,43.628400,76.8096
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

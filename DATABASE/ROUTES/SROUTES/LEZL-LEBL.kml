@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEZL to LEBL</name>
+    <description>SEVILLA to BARCELONA/EL PRAT</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEZL to LEBL</name>
+      <description>SEVILLA to BARCELONA/EL PRAT</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-5.898900,37.418100,34.1376
+-2.504400,37.972500,10058.4
+-2.188600,38.208100,10058.4
+-1.936100,38.364200,10058.4
+-1.342200,38.726900,10058.4
+-0.771900,39.069200,10058.4
+-0.483100,39.485600,10058.4
+0.143000,40.230800,10058.4
+0.265500,40.556600,10058.4
+2.078300,41.296900,3.6576000000000004
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

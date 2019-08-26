@@ -1,0 +1,14 @@
+[
+  {
+    "id":0,
+    "name":"HUESCA-PIRINEOS AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEHC.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEHC.png"
+  },
+  {
+    "id":1,
+    "name":"TERUEL AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LETL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LETL.png"
+  }
+]

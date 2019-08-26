@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEMD to GCLP</name>
+    <description>ADOLFO SUAREZ MADRID/BARAJAS to GRAN CANARIA</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEMD to GCLP</name>
+      <description>ADOLFO SUAREZ MADRID/BARAJAS to GRAN CANARIA</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-3.560800,40.472200,608.9904
+-3.464000,39.780700,10058.4
+-3.400200,39.576900,10058.4
+-3.221400,39.000000,10058.4
+-3.625000,38.152500,10058.4
+-4.369600,36.814300,10058.4
+-4.893500,36.150400,10058.4
+-5.143600,35.833300,10058.4
+-6.746400,34.049900,10058.4
+-7.506100,33.115700,10058.4
+-7.690500,32.853700,10058.4
+-8.197100,32.124300,10058.4
+-9.383500,30.321900,10058.4
+-12.816400,28.906100,10058.4
+-15.386700,27.931900,23.7744
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

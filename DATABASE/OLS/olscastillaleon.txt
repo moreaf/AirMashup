@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"BURGOS-VILLAFRÍA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEBG.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEBG.png"
+  }
+]

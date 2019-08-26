@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEBL to EDDF</name>
+    <description>BARCELONA/EL PRAT to FRANKFURT MAIN</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBL to EDDF</name>
+      <description>BARCELONA/EL PRAT to FRANKFURT MAIN</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>2.078300,41.296900,3.6576000000000004
+3.357900,41.733800,10058.4
+3.933800,41.923900,10058.4
+4.415000,42.079700,10058.4
+4.997400,42.560200,10058.4
+5.500000,42.966700,10058.4
+5.828900,43.228600,10058.4
+6.040600,43.395500,10058.4
+6.078500,43.771400,10058.4
+6.377800,44.208600,10058.4
+6.569500,44.485000,10058.4
+6.790400,44.800000,10058.4
+6.777300,45.008600,10058.4
+6.755300,45.331400,10058.4
+6.746900,45.457200,10058.4
+6.722700,45.809700,10058.4
+7.231400,46.579700,10058.4
+7.414100,46.850400,10058.4
+7.680700,46.995300,10058.4
+7.941300,47.135500,10058.4
+8.010700,47.165200,10058.4
+8.333500,47.302100,10058.4
+8.817700,47.592200,10058.4
+8.896100,47.784200,10058.4
+8.953400,48.166700,10058.4
+8.998100,48.462000,10058.4
+8.570500,50.033300,110.94720000000001
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,35 @@
+[
+  {
+    "id":0,
+    "name":"ERJ",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/IMAGES/ERJ.png",
+    "lon":-45.858808,
+    "lat":-23.228537,
+    "range":0,
+    "description":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/ERJ.html",
+    "icon":"test",
+    "scale":1
+  },
+  {
+    "id":1,
+    "name":"E-JETS",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/IMAGES/E-JETS.png",
+    "lon":-45.858808,
+    "lat":-23.228537,
+    "range":0,
+    "description":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/E-JETS.html",
+    "icon":"test",
+    "scale":1
+  },
+  {
+    "id":2,
+    "name":"E-JETS-E2",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/IMAGES/E-JETS-E2.png",
+    "lon":-45.858808,
+    "lat":-23.228537,
+    "range":0,
+    "description":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/MANUFACTURERS/EMBRAER/E-JETS-E2.html",
+    "icon":"test",
+    "scale":1
+  }
+]

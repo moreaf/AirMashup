@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEMD to LEBL</name>
+    <description>ADOLFO SUAREZ MADRID/BARAJAS to BARCELONA/EL PRAT</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEMD to LEBL</name>
+      <description>ADOLFO SUAREZ MADRID/BARAJAS to BARCELONA/EL PRAT</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-3.560800,40.472200,608.9904
+-2.599200,40.980300,10058.4
+-2.376500,41.022800,10058.4
+-2.078000,41.079100,10058.4
+-1.455000,41.193700,10058.4
+-0.547600,41.353900,10058.4
+0.218700,41.346700,10058.4
+0.199400,41.268400,10058.4
+2.078300,41.296900,3.6576000000000004
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

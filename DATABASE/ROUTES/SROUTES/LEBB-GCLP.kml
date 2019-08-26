@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEBB to GCLP</name>
+    <description>BILBAO to GRAN CANARIA</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBB to GCLP</name>
+      <description>BILBAO to GRAN CANARIA</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-2.910600,43.301100,42.062400000000004
+-3.221000,43.000000,10058.4
+-4.109200,42.027500,10058.4
+-4.169000,41.500300,10058.4
+-4.195300,41.265700,10058.4
+-4.223300,41.015300,10058.4
+-4.337500,39.969400,10058.4
+-4.383500,39.755200,10058.4
+-4.496800,39.221800,10058.4
+-4.685800,39.000000,10058.4
+-5.099700,38.508100,10058.4
+-5.762200,37.427600,10058.4
+-5.975500,36.239300,10058.4
+-5.954400,35.833300,10058.4
+-5.890800,35.728800,10058.4
+-5.916700,35.400000,10058.4
+-5.930600,34.903100,10058.4
+-6.331700,34.497200,10058.4
+-6.516200,33.970000,10058.4
+-6.893600,33.647200,10058.4
+-7.506100,33.115700,10058.4
+-7.690500,32.853700,10058.4
+-8.197100,32.124300,10058.4
+-9.383500,30.321900,10058.4
+-12.816400,28.906100,10058.4
+-15.386700,27.931900,23.7744
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

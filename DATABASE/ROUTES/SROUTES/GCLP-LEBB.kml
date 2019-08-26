@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <gx:Tour>
+        <name>FollowPath</name>
+        <gx:Playlist>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-10.184673</longitude>
+              <latitude>34.815243</latitude>
+              <range>1500000</range>
+              <heading>-4</heading>
+              <tilt>7</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-15.474222</longitude>
+              <latitude>27.856345</latitude>
+              <range>72880</range>
+              <heading>-2</heading>
+              <tilt>45</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>5.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-13.643956</longitude>
+              <latitude>29.067257</latitude>
+              <range>200000</range>
+              <heading>-1</heading>
+              <tilt>46</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-9.813182</longitude>
+              <latitude>31.455248</latitude>
+              <range>200000</range>
+              <heading>-2</heading>
+              <tilt>30</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-6.107098</longitude>
+              <latitude>36.124169</latitude>
+              <range>463759</range>
+              <heading>-33</heading>
+              <tilt>43</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-3.761575</longitude>
+              <latitude>40.991024</latitude>
+              <range>461703</range>
+              <heading>-31</heading>
+              <tilt>43</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-3.132087</longitude>
+              <latitude>42.684397</latitude>
+              <range>142990</range>
+              <heading>-65</heading>
+              <tilt>65</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>6.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+          <LookAt>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <longitude>-10.184673</longitude>
+              <latitude>34.815243</latitude>
+              <range>1500000</range>
+              <heading>-4</heading>
+              <tilt>7</tilt>
+            </LookAt>
+          </gx:FlyTo>
+          </gx:Playlist>
+      </gx:Tour>
+    <Folder>
+    <name>GCLP to LEBB</name>
+    <description>GRAN CANARIA to BILBAO</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>GCLP to LEBB</name>
+      <description>GRAN CANARIA to BILBAO</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-15.386700,27.931900,23.7744
+-12.578300,29.731400,10058.4
+-12.101900,30.012200,10058.4
+-9.686900,31.401300,10058.4
+-8.366700,33.194700,10058.4
+-6.701100,35.345800,10058.4
+-6.323900,35.833300,10058.4
+-6.239400,35.932200,10058.4
+-5.975500,36.239300,10058.4
+-5.762200,37.427600,10058.4
+-5.099700,38.508100,10058.4
+-4.846900,39.000000,10058.4
+-4.746400,39.193700,10058.4
+-4.431000,39.793700,10058.4
+-4.337500,39.969400,10058.4
+-3.604700,41.151700,10058.4
+-3.411700,41.504300,10058.4
+-2.880600,42.453300,10058.4
+-2.910600,43.301100,42.062400000000004
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+  </Document>
+</kml>

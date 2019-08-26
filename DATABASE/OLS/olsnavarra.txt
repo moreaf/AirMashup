@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"PAMPLONA-NOAIN AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEPP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEPP.png"
+  }
+]

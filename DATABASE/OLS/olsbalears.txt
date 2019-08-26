@@ -1,0 +1,14 @@
+[
+  {
+    "id":0,
+    "name":"MENORCA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEMH.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEMH.png"
+  },
+  {
+    "id":1,
+    "name":"SON BONET AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LESB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LESB.png"
+  }
+]

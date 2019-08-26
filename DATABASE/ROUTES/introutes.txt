@@ -1,0 +1,188 @@
+[
+  {
+    "id":0,
+    "name":"BARCELONA (LEBL) - KEFLAVÍK (BIKF)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-BIKF.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-BIKF.png"
+  },
+  {
+    "id":1,
+    "name":"BARCELONA (LEBL) - TORONTO (CYTZ)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-CYTZ.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-CYTZ.png"
+  },
+  {
+    "id":2,
+    "name":"BARCELONA (LEBL) - BERLIN (EDDB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-EDDB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-EDDB.png"
+  },
+  {
+    "id":3,
+    "name":"BARCELONA (LEBL) - FRANKFURT (EDDF)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-EDDF.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-EDDF.png"
+  },
+  {
+    "id":4,
+    "name":"BARCELONA (LEBL) - LONDON GATWICK (EGKK)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-EGKK.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-EGKK.png"
+  },
+  {
+    "id":5,
+    "name":"BARCELONA (LEBL) - AMSTERDAM (EHAM)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-EHAM.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-EHAM.png"
+  },
+  {
+    "id":6,
+    "name":"BARCELONA (LEBL) - JOHANNESBURG (FAOR)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-FAOR.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-FAOR.png"
+  },
+  {
+    "id":7,
+    "name":"BARCELONA (LEBL) - LAS PALMAS (GCLP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-GCLP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-GCLP.png"
+  },
+  {
+    "id":8,
+    "name":"BARCELONA (LEBL) - NAIROBI (HKJK)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-HKJK.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-HKJK.png"
+  },
+  {
+    "id":9,
+    "name":"BARCELONA (LEBL) - NEW YORK (KJFK)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-KJFK.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-KJFK.png"
+  },
+  {
+    "id":10,
+    "name":"BARCELONA (LEBL) - LAS VEGAS (KLAS)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-KLAS.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-KLAS.png"
+  },
+  {
+    "id":11,
+    "name":"BARCELONA (LEBL) - SAN FRANCISCO (KSFO)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-KSFO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-KSFO.png"
+  },
+  {
+    "id":12,
+    "name":"BARCELONA (LEBL) - MEXICO CITY (MMMX)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-MMMX.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-MMMX.png"
+  },
+  {
+    "id":13,
+    "name":"BARCELONA (LEBL) - PANAMA CITY (MPTO)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-MPTO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-MPTO.png"
+  },
+  {
+    "id":14,
+    "name":"BARCELONA (LEBL) - DUBAI (OMDB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-OMDB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-OMDB.png"
+  },
+  {
+    "id":15,
+    "name":"BARCELONA (LEBL) - DOHA (OTHH)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-OTHH.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-OTHH.png"
+  },
+  {
+    "id":16,
+    "name":"BARCELONA (LEBL) - TAOYUAN (RCTP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-RCTP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-RCTP.png"
+  },
+  {
+    "id":17,
+    "name":"BARCELONA (LEBL) - SEOUL (RKSI)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-RKSI.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-RKSI.png"
+  },
+  {
+    "id":18,
+    "name":"BARCELONA (LEBL) - BUENOS AIRES (SAEZ)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SAEZ.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SAEZ.png"
+  },
+  {
+    "id":19,
+    "name":"BARCELONA (LEBL) - SAO PAULO (SBGR)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SBGR.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SBGR.png"
+  },
+  {
+    "id":20,
+    "name":"BARCELONA (LEBL) - SANTIAGO DE CHILE (SCEL)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SCEL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SCEL.png"
+  },
+  {
+    "id":21,
+    "name":"BARCELONA (LEBL) - QUITO (SEQM)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SEQM.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SEQM.png"
+  },
+  {
+    "id":22,
+    "name":"BARCELONA (LEBL) - BOGOTA (SKBO)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SKBO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SKBO.png"
+  },
+  {
+    "id":23,
+    "name":"BARCELONA (LEBL) - LA PAZ (SLLP)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SLLP.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SLLP.png"
+  },
+  {
+    "id":24,
+    "name":"BARCELONA (LEBL) - CARACAS (SVMI)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-SVMI.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-SVMI.png"
+  },
+  {
+    "id":25,
+    "name":"BARCELONA (LEBL) - BAKU (UBBB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-UBBB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-UBBB.png"
+  },
+  {
+    "id":26,
+    "name":"BARCELONA (LEBL) - VOLGOGRAD (URWW)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-URWW.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-URWW.png"
+  },
+  {
+    "id":27,
+    "name":"BARCELONA (LEBL) - MUMBAI (VABB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-VABB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-VABB.png"
+  },
+  {
+    "id":28,
+    "name":"BARCELONA (LEBL) - HONG KONG (VHHH)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-VHHH.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-VHHH.png"
+  },
+  {
+    "id":29,
+    "name":"BARCELONA (LEBL) - BANGKOK (VTBS)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-VTBS.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-VTBS.png"
+  },
+  {
+    "id":30,
+    "name":"BARCELONA (LEBL) - ULAN BATOR (ZMUB)",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/LEBL-ZMUB.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/ROUTES/INTROUTES/IMAGES/LEBL-ZMUB.png"
+  }
+]

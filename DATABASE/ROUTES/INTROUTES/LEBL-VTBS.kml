@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+  xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <gx:Tour>
+        <name>FollowPath</name>
+        <gx:Playlist>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>53</longitude>
+                <latitude>40</latitude>
+                <range>1000000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>10.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>2.06</longitude>
+                <latitude>41.3</latitude>
+                <range>147096</range>
+                <heading>19</heading>
+                <tilt>29</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>10.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>25.4</longitude>
+                <latitude>41</latitude>
+                <range>1000000</range>
+                <heading>50</heading>
+                <tilt>50</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>18.0</gx:duration>
+            <gx:flyToMode>smooth</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>97.6</longitude>
+                <latitude>16.6</latitude>
+                <range>1000000</range>
+                <heading>90</heading>
+                <tilt>50</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>100.57</longitude>
+                <latitude>13.56</latitude>
+                <range>20000</range>
+                <heading>90</heading>
+                <tilt>50</tilt>
+              </LookAt>
+          </gx:FlyTo>
+          <gx:Wait>
+            <gx:duration>3.0</gx:duration>
+          </gx:Wait>
+          <gx:FlyTo>
+            <gx:duration>4.0</gx:duration>
+            <gx:flyToMode>bounce</gx:flyToMode>
+            <LookAt>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <longitude>53</longitude>
+                <latitude>40</latitude>
+                <range>1000000</range>
+                <heading>0</heading>
+                <tilt>45</tilt>
+              </LookAt>
+          </gx:FlyTo>
+         </gx:Playlist>
+        </gx:Tour>
+    <name>LEBL to VTBS</name>
+    <description>BARCELONA/EL PRAT to BANGKOK/SUVARNABHUMI INTL</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>LEBL to VTBS</name>
+      <description>BARCELONA/EL PRAT to BANGKOK/SUVARNABHUMI INTL</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>2.078300,41.296900,3.6576000000000004
+3.756900,41.153000,10058.4
+4.461400,40.895400,10058.4
+4.666700,40.856900,10058.4
+5.956400,40.731700,10058.4
+6.157200,40.710800,10058.4
+7.482800,40.563900,10058.4
+8.000000,40.608000,10058.4
+10.135700,40.765300,10058.4
+11.217300,40.829800,10058.4
+12.681700,40.775200,10058.4
+13.890900,40.690900,10058.4
+15.417300,40.690500,10058.4
+17.174200,40.614500,10058.4
+19.000000,40.598400,10058.4
+20.955800,40.480800,10058.4
+21.275300,40.451000,10058.4
+22.427500,40.457500,10058.4
+22.991100,40.456800,10058.4
+23.480600,40.528100,10058.4
+23.967800,40.596700,10058.4
+24.706400,40.768300,10058.4
+25.307800,40.904200,10058.4
+26.321400,41.125300,10058.4
+26.674700,41.129700,10058.4
+28.384200,41.136400,10058.4
+29.142900,41.127000,10058.4
+29.516100,41.198900,10058.4
+29.999400,41.298900,10058.4
+31.349400,41.548900,10058.4
+32.298300,41.723300,10058.4
+33.046700,41.846900,10058.4
+33.706300,41.951400,10058.4
+34.857500,42.011900,10058.4
+35.076800,42.022300,10058.4
+37.045300,41.903900,10058.4
+40.656400,41.799200,10058.4
+42.094400,41.721400,10058.4
+42.859700,41.672500,10058.4
+43.495800,41.627800,10058.4
+44.231400,41.571900,10058.4
+45.366700,41.483300,10058.4
+46.750000,41.296700,10058.4
+47.888300,41.058300,10058.4
+49.241900,40.730300,10058.4
+49.506900,40.698900,10058.4
+50.921100,40.520000,10058.4
+51.500000,40.466700,10058.4
+52.588300,40.263300,10058.4
+54.450000,39.890000,10058.4
+54.763300,39.823300,10058.4
+55.358300,39.695000,10058.4
+55.898300,39.575000,10058.4
+56.808300,39.368300,10058.4
+58.628300,38.886700,10058.4
+59.366700,38.595000,10058.4
+61.896700,37.621700,10058.4
+64.787500,36.960800,10058.4
+66.165800,36.220000,10058.4
+67.826400,35.289700,10058.4
+68.249400,35.051100,10058.4
+69.150000,34.516700,10058.4
+69.946400,34.176400,10058.4
+70.499700,33.933000,10058.4
+71.005800,33.485800,10058.4
+71.856100,33.538300,10058.4
+73.266100,32.766700,10058.4
+74.565800,31.346400,10058.4
+75.158600,30.804200,10058.4
+81.466700,26.938900,10058.4
+83.283300,25.787800,10058.4
+84.943900,24.741900,10058.4
+86.434200,23.811700,10058.4
+87.029200,23.480300,10058.4
+88.448100,22.676000,10058.4
+89.013900,22.302500,10058.4
+90.547200,21.345800,10058.4
+91.996900,20.417600,10058.4
+94.723800,18.579300,10058.4
+95.146600,18.301200,10058.4
+96.519900,17.318500,10058.4
+97.796300,16.368000,10058.4
+98.591700,15.480300,10058.4
+99.384300,14.857600,10058.4
+99.908400,14.442400,10058.4
+100.748900,13.685800,1.524
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

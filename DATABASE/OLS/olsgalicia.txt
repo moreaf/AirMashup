@@ -1,0 +1,26 @@
+[
+  {
+    "id":0,
+    "name":"A CORUÑA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LECO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LECO.png"
+  },
+  {
+    "id":1,
+    "name":"SANTIAGO DE COMPOSTELA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEST.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEST.png"
+  },
+  {
+    "id":2,
+    "name":"VIGO AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEVX.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEVX.png"
+  },
+  {
+    "id":3,
+    "name":"LUGO - LAS ROZAS AERODROME",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LERO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LERO.png"
+  }
+]

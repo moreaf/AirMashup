@@ -1,0 +1,26 @@
+[
+  {
+    "id":0,
+    "name":"LLEIDA-ALGUAIRE AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEDA.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEDA.jpg"
+  },
+  {
+    "id":1,
+    "name":"BARCELONA-EL PRAT AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEBL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEBL.jpg"
+  },
+  {
+    "id":2,
+    "name":"GIRONA-COSTA BRAVA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEGE.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEGE.jpg"
+  },
+  {
+    "id":3,
+    "name":"SABADELL AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LELL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LELL.jpg"
+  }
+]

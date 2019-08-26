@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"OCAÑA-TOLEDO AERODROME",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEOC.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEOC.png"
+  }
+]

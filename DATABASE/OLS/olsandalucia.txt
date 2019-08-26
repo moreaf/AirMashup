@@ -1,0 +1,50 @@
+[
+  {
+    "id":0,
+    "name":"ALGECIRAS AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/AEI.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/AEI.png",
+    "lat":-5.1170001,
+    "lon":38.5
+  },
+  {
+    "id":1,
+    "name":"HINOJOSA DEL DUQUE AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEHI.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEHI.png",
+    "lat":-5.1170001,
+    "lon":38.5
+  },
+  {
+    "id":2,
+    "name":"JEREZ AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEJR.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEJR.png",
+    "lat":36.7445984,
+    "lon":-6.0601101
+  },
+  {
+    "id":3,
+    "name":"GRANADA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEGR.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEGR.png",
+    "lat":37.1887016,
+    "lon":-3.77736
+  },
+  {
+    "id":3,
+    "name":"MÁLAGA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEMG.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEMG.png",
+    "lat":36.6749001,
+    "lon":-4.4991102
+  },
+  {
+    "id":4,
+    "name":"SEVILLA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEZL.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEZL.png",
+    "lat":37.4179993,
+    "lon":-5.8931098
+  }
+]

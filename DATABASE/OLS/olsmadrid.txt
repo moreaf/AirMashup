@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"MADRID-BARAJAS AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LEMD.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LEMD.jpg"
+  }
+]

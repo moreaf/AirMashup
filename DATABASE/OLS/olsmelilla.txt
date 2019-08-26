@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"MELILLA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/GEML.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/GEML.png"
+  }
+]

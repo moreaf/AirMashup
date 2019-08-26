@@ -1,0 +1,4 @@
+---------------LICENSE---------------
+This project is under the Open Source License GNU General Public License version 2 or any later version.
+
+The OpenSky Network is not included under this license and works under its own licensing.

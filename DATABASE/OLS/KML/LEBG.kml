@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="area1">
+    <LineStyle>
+      <color>FF696969</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="area2">
+    <LineStyle>
+      <color>FF00FF00</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="area3">
+    <LineStyle>
+      <color>FFFF00FF</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="area4">
+    <LineStyle>
+      <color>FFFF3F00</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="line1">
+    <LineStyle>
+      <color>FF696969</color>
+      <width>1</width>
+    </LineStyle>
+  </Style>
+  <Style id="point1">
+    <IconStyle><Icon>kml_ext_files/kml_symbol_no symbol_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[PROLONGACIÓN EJE DE PISTA 22 04]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7834684188,42.2225266119,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[PROLONGACIÓN EJE DE PISTA 04 22]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4644466657,42.4753115493,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7418887950,42.3813794494,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.8198856088,42.2262434021,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6822373346,42.2180077572,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5688978240,42.3187005377,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5765420763,42.5277930396,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4578402936,42.5184987989,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4273892752,42.4247018028,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5711147600,42.3307311601,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5900889532,42.4468909461,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4962782494,42.5723075799,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4069798411,42.5531643950,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.3594894330,42.4940868862,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4653748844,42.4148820176,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6568502311,42.2684561235,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7789630838,42.1557770870,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.8620614209,42.1858287216,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.8953003357,42.2499669139,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7361853299,42.3288305541,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 04  PENDIENTE 2,5 % DESDE 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6071630257,42.4347476866,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 04  PENDIENTE 2,5 % DESDE 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5336738491,42.4474425619,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROX. FRUSTRADA VOR RWY 04  PENDIENTE 2,5 %%% DESDE 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.4947946622,42.4080992760,1303.149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 22  PENDIENTE 2,5 % DESDE 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7025264681,42.3295928694,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 22  PENDIENTE 2,5 % DESDE 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.7036891762,42.2679144799,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 22  PENDIENTE 2,5 % DESDE 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6208125465,42.2898460785,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6603894467,42.4471577738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.8419686648,42.3132722453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5139864919,42.3415841677,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5880842013,42.2819426602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 04  PENDIENTE 2,5 % DESDE 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5386093888,42.3783158627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.5669869819,42.3563974150,1104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6746154340,42.4045056208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN INTERMEDIA VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6849318407,42.3956792720,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROX. FRUSTRADA VOR RWY 22]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6417127399,42.3627267290,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[PENDIENTE 2,5 %%% DESDE 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6409590242,42.3620136861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6474021587,42.3632636163,2092</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 04  ALTITUD 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6082905663,42.3236321412,1046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FINAL VOR RWY 22  ALTITUD 1135 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6247373897,42.3839536585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[PENDIENTE 2,5 %%% DESDE 1046 m]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6274704673,42.3856798723,1096.183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <name><![CDATA[LÍMITE APROXIMACIÓN FRUSTRADA VOR RWY 04]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>-3.6281937083,42.3868747399,1096.183</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Area Features</name>
+    <description>Area Features</description>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.6220864746,42.3503256903,0
+              -3.6046576184,42.3641306694,0
+              -3.6050564745,42.3644076934,0
+              -3.6224853186,42.3506026545,0
+              -3.6220864746,42.3503256903,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area2</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.5923395934,42.3417310598,1046
+              -3.4766963364,42.4203886702,1350.8
+              -3.5907002245,42.4744677046,1350.8
+              -3.6347054693,42.3681791453,1046
+              -3.5923395934,42.3417310598,1046
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area2</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.6347054693,42.3681791453,1046
+              -3.8375377012,42.2893929720,1046
+              -3.9202757422,42.2328957449,1046
+              -3.8039335279,42.1387310224,1046
+              -3.7212121797,42.1951450887,1046
+              -3.5923395934,42.3417310598,1046
+              -3.6347054693,42.3681791453,1046
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area2</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.5529636397,42.3057386403,1046
+              -3.6897545373,42.4167658311,1046
+              -3.8883657576,42.2816184163,1046
+              -3.7515252304,42.1708259988,1046
+              -3.5529636397,42.3057386403,1046
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area3</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.5913927186,42.3423207067,1135
+              -3.6356523202,42.3675891434,1135
+              -3.7572458947,42.2984396683,1439.8
+              -3.6501839987,42.2373637571,1439.8
+              -3.5913927186,42.3423207067,1135
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area3</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.6356523202,42.3675891434,1135
+              -3.5913927186,42.3423207067,1135
+              -3.4076641012,42.4480101651,1135
+              -3.3386191461,42.5140210387,1135
+              -3.4754258589,42.5922662889,1135
+              -3.5444114311,42.5261742087,1135
+              -3.6356523202,42.3675891434,1135
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area3</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.7030718131,42.4060076185,1135
+              -3.5423636314,42.3142853589,1135
+              -3.3774606288,42.4724950973,1135
+              -3.5383377011,42.5644451078,1135
+              -3.7030718131,42.4060076185,1135
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#area4</styleUrl>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>1</extrude>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -3.9202757422,42.2328957449,0
+              -3.8039335279,42.1387310224,0
+              -3.7539792217,42.1728177747,0
+              -3.7515252304,42.1708259988,0
+              -3.6521290057,42.2384752914,0
+              -3.6501839987,42.2373637571,0
+              -3.6479900194,42.2412873119,0
+              -3.5529636397,42.3057386403,0
+              -3.5934485813,42.3386568302,0
+              -3.5913927186,42.3423207067,0
+              -3.5423636314,42.3142853589,0
+              -3.3774606288,42.4724950973,0
+              -3.3803464838,42.4741489158,0
+              -3.3386191461,42.5140210387,0
+              -3.4754258589,42.5922662889,0
+              -3.5171173689,42.5523450773,0
+              -3.5383377011,42.5644451078,0
+              -3.6970488215,42.4118186079,0
+              -3.8883657576,42.2816184163,0
+              -3.8703114423,42.2670327183,0
+              -3.9202757422,42.2328957449,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Line Features</name>
+    <description>Line Features</description>
+    <Placemark>
+      <description>LEBG_SSAA_OO</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <extrude>0</extrude>
+        <coordinates>
+          -3.3302695612,42.5806213004,0
+          -3.8969899403,42.1317292717,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

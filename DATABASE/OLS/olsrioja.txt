@@ -1,0 +1,8 @@
+[
+  {
+    "id":0,
+    "name":"LOGROÑO-AGONCILLO AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/LERJ.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/LERJ.png"
+  }
+]

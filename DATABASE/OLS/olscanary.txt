@@ -1,0 +1,26 @@
+[
+  {
+    "id":0,
+    "name":"LANZAROTE-ARRECIFE AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/GCRR.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/GCRR.png"
+  },
+  {
+    "id":1,
+    "name":"TENERIFE SUR AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/GCTS.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/GCTS.png"
+  },
+  {
+    "id":2,
+    "name":"TENERIFE NORTE AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/GCXO.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/GCXO.png"
+  },
+  {
+    "id":3,
+    "name":"LA GOMERA AIRPORT",
+    "kml":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/KML/GCGM.kml",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/OLS/IMAGES/GCGM.png"
+  }
+]

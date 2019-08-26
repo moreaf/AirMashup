@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GCLP to LEZL</name>
+    <description>GRAN CANARIA to SEVILLA</description>
+    <Style id="redPoly">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>GCLP to LEZL</name>
+      <description>GRAN CANARIA to SEVILLA</description>
+      <styleUrl>#redPoly</styleUrl>
+      <LineString>
+        <extrude>1</extrude>
+        <tesselate>1</tesselate>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-15.386700,27.931900,23.7744
+-12.578300,29.731400,10058.4
+-12.101900,30.012200,10058.4
+-9.686900,31.401300,10058.4
+-8.366700,33.194700,10058.4
+-6.701100,35.345800,10058.4
+-6.323900,35.833300,10058.4
+-6.239400,35.932200,10058.4
+-5.975500,36.239300,10058.4
+-5.898900,37.418100,34.1376
+</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

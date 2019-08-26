@@ -1,0 +1,12 @@
+[
+  {
+    "id":0,
+    "name":"SPAIN ENROUTE CHART",
+    "cover":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/AIS/SECcover.png",
+    "img":"/Users/albert/Desktop/AirMashup_GSoC/SERVER/database/AIS/spainairways.png",
+    "fCorner":"-15.391890,35.110888,0",
+    "sCorner":"6.350394,35.305643,0",
+    "tCorner":"6.450081,45.586340,0",
+    "ftCorner":"-15.381850,45.549272,0"
+  }
+]
