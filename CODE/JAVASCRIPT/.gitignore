@@ -1,4 +1,5 @@
 setup.cfg
 Eric test/
 gitUpdate.sh
+node_modules
 .env*
