@@ -21,8 +21,16 @@ and also the default python modules time,sched, threading, datetime, math and sy
 
 After, you will find three .env files, one inside every folder inside CODE directory. All of them are the same in order to make it easy to copy and paste. There you must set your IP and PORT of your server (localhost if you're using your own laptop) and of your API (normally running at the same machine as the Liquid Galaxy).
 
-Therefore you will find to send to LG master some images files such as manufacturers images, aircraft logo and drone logo. I recommend you to send all of the LOGOS folder.
+Here you can copy paste the env files with variable names:
 
+VUE_APP_SERVER_IP=
+VUE_APP_SERVER_PORT=
+VUE_APP_API_IP=
+VUE_APP_API_PORT=
+API_USER=
+API_PASS=
+
+Therefore you will find to send to LG master some images files such as manufacturers images, aircraft logo and drone logo. I recommend you to send all the LOGOS folder.
 
 ----------------USAGE----------------
 Before anything else, you must set up the server running server.js file inside JAVASCRIPT folder with, for example, nodemon (recommended) such as: 'nodemon sever.js'.
