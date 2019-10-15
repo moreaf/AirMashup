@@ -18,7 +18,7 @@ console.log(' ---- server ----')
 console.log("IP",process.env.VUE_APP_SERVER_IP)
 console.log("PORT",process.env.VUE_APP_SERVER_PORT)
 
-app.use('/',express.static('./'))
+app.use('/',express.static('./public'))
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
